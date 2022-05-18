@@ -13,6 +13,9 @@ This bot will let you to give your users a great tool to search among the articl
 
 ## How to config?
 
+### Easy Way
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/RoyalKrrishna/TelegraphSearchBot)
+
 - Clone this repository:
 
 ```
